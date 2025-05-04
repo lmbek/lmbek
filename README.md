@@ -4,7 +4,7 @@
 Connect with me on linkedin and feel free to leave me a message
 
 # Lars M Bek - Software Developer
-Welcome to my GitHub profile, you can connect with me on <a href="https://www.linkedin.com/in/lmbek/" target="_blank" color="white">LinkedIn</a>, <a href="https://lmbek.dk" target="_blank">Lmbek.dk</a> or Discord (username: lmbek), if you are a programmer who want to collaborate.
+Welcome to my GitHub profile, you can connect with me on <a href="https://www.linkedin.com/in/lmbek/" target="_blank" color="white">LinkedIn</a><!--, <a href="https://lmbek.dk" target="_blank">Lmbek.dk</a>--> or Discord (username: lmbek), if you are a programmer who want to collaborate.
 
 ## Main Languages, Tools & Services (professional):
 * Serverside: Go, PHP, C#, Java, Apache, Nginx
