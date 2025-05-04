@@ -1,6 +1,6 @@
 
 
-<div><a href="https://www.linkedin.com/in/lmbek/"><img style="width: 100%; display: block;" src="https://media.licdn.com/dms/image/v2/D4D16AQE9ue2WQcE-Iw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735692906405?e=1741219200&v=beta&t=VDX_779pMJ14Aadmvxc8ttDWWe1DwrxWB3PFfkN9CHE" alt="Lars M Bek Professions" /></a></div>
+<!--<div><a href="https://www.linkedin.com/in/lmbek/"><img style="width: 100%; display: block;" src="https://media.licdn.com/dms/image/v2/D4D16AQE9ue2WQcE-Iw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735692906405?e=1741219200&v=beta&t=VDX_779pMJ14Aadmvxc8ttDWWe1DwrxWB3PFfkN9CHE" alt="Lars M Bek Professions" /></a></div>-->
 Connect with me on linkedin and feel free to leave me a message
 
 # Lars M Bek - Software Developer
@@ -63,9 +63,9 @@ Welcome to my GitHub profile, you can connect with me on <a href="https://www.li
 ## Social Networks
 <a href="https://www.linkedin.com/in/lmbek/" color="white">LinkedIn (Lars M Bek)</a> <br>
 
-## Websites
-<a href="https://beksoft.dk">Beksoft.dk</a> <br>
-<a href="https://lmbek.dk">Lmbek.dk</a> <br>
+<!--## Websites-->
+<!--<a href="https://beksoft.dk">Beksoft.dk</a> <br>
+<a href="https://lmbek.dk">Lmbek.dk</a> <br>-->
 <!--
 ## The Structure Of My Repositories
 <img alt="GitHub Structure Diagram" src="https://beksoft.dk/images/shares/howToGitHubDarkBG2.png" width="100%">
