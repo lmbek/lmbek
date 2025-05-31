@@ -6,22 +6,24 @@ Connect with me on linkedin and feel free to leave me a message
 # Lars M Bek - Software Developer
 Welcome to my GitHub profile, you can connect with me on <a href="https://www.linkedin.com/in/lmbek/" target="_blank" color="white">LinkedIn</a><!--, <a href="https://lmbek.dk" target="_blank">Lmbek.dk</a>--> or Discord (username: lmbek), if you are a programmer who want to collaborate.
 
+
+
 ## Main Languages, Tools & Services (professional):
+* Speciality: Go (golang)
 * Serverside: Go, PHP, C#, Java, Apache, Nginx
-* Go frameworks: Echo, Gin, Cobra
-* Go libraries: Gorilla, Excelize, fpdf, webview_go, GORM, go-swagger, prometheus
-* PHP frameworks: Laravel
-* PHP libraries: PHPSpreadsheet
-* C# frameworks: .NET, Unity
-* C# libraries: Newtonsoft.Json, NHibernate, NUnit
-* Frontend: HTML, GOHTML, CSS, JavaScript, Typescript, JSON, XML, CSV, JAVAFX
-* Frontend frameworks, libs and other: Esbuild, React, Three.js, Tailwind, Bootstrap, Go TEMPL, HTMX 
-* Databases: MySQL, Sqlite, MongoDB
-* Coding IDE: Goland, IntelliJ Ultimate, Rider, CLion, Visual Code
-* Servers: Ubuntu, CentOS, Hetzner Cloud (VPS linux servers), Azure, Google Cloud Platform, Digital Ocean, AWS
+* Go frameworks: Echo, Gin, Cobra, (and mostly just standard library and x (experimental))
+* Go libraries: Gorilla, Excelize, fpdf, webview_go, GORM, go-swagger, prometheus, grafana
+* Docker images: alphine, grafana, ubuntu, mysql, php, nginx with acme, apache
+* C# frameworks: .NET, Unity3d
+* Domain Speciality: Document-automation, object management, data processing and integrations
+* Frontend: HTML, GOHTML, CSS, JavaScript, Typescript, JSON, XML, CSV, Esbuild, React
+* Databases: MySQL, Sqlite, Postgres, MongoDB
+* Coding IDE: Goland, IntelliJ Ultimate, Rider, Visual Code
+* Server providers: Hetzner Cloud (VPS linux servers), Azure, Google Cloud Platform, Digital Ocean, AWS
 * Containerization: Docker, Kubernetes
 * Automations: Makefile, Dockerfile, docker-compose, github actions
 * Deployment: systemd (services), Docker, Kubernetes
+* Server administration (linux): ssh configuration, permissions, systemd, configuration
 
 <br>
 
