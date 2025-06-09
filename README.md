@@ -6,7 +6,7 @@
 |____________________________|         - Lars Morten Bek
  \O/   \O/   \O/   \O/   \O/           - Software Developer since 2005
   |     |     |     |     |            - Gopher since 2021
- / \   / \   / \   / \   / \
+ / \   / \   / \   / \   / \           - Proposed to Ida Marcher Jensen
 ```
 
 <!--<div><a href="https://www.linkedin.com/in/lmbek/"><img style="width: 100%; display: block;" src="https://media.licdn.com/dms/image/v2/D4D16AQE9ue2WQcE-Iw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735692906405?e=1741219200&v=beta&t=VDX_779pMJ14Aadmvxc8ttDWWe1DwrxWB3PFfkN9CHE" alt="Lars M Bek Professions" /></a></div>-->
