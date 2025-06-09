@@ -5,7 +5,7 @@
 |  go build -o or_go_home .  |
 |____________________________|         - Lars Morten Bek
  \O/   \O/   \O/   \O/   \O/           - Software Developer since 2005
-  |     |     |     |     |
+  |     |     |     |     |            - Gopher since 2021
  / \   / \   / \   / \   / \
 ```
 
