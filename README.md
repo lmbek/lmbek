@@ -16,22 +16,87 @@ Connect with me on linkedin and feel free to leave me a message
 Welcome to my GitHub profile, you can connect with me on <a href="https://www.linkedin.com/in/lmbek/" target="_blank" color="white">LinkedIn</a><!--, <a href="https://lmbek.dk" target="_blank">Lmbek.dk</a>--> or Discord (username: lmbek), if you are a programmer who want to collaborate.
 <div><a href="https://www.linkedin.com/in/lmbek/"><img style="width: 100%; display: block;" src="https://media.licdn.com/dms/image/v2/D4D16AQE9ue2WQcE-Iw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735692906405?e=1753920000&v=beta&t=vPlw1QI4zmiwreMZrr86aetqa7YF51pn17IfEL62qKM" alt="Lars M Bek Professions" /></a></div>
 
-## Main Languages, Tools & Services (professional):
-* Speciality: Go (golang)
-* Serverside: Go, PHP, C#, Java, Apache, Nginx
-* Go frameworks: Echo, Gin, Cobra, (and mostly just standard library and x (experimental))
-* Go libraries: Gorilla, Excelize, fpdf, webview_go, GORM, go-swagger, prometheus, grafana
-* Docker images: alphine, grafana, ubuntu, mysql, php, nginx with acme, apache
-* C# frameworks: .NET, Unity3d
-* Domain Speciality: Document-automation, object management, data processing and integrations
-* Frontend: HTML, GOHTML, CSS, JavaScript, Typescript, JSON, XML, CSV, Esbuild, React
-* Databases: MySQL, Sqlite, Postgres, MongoDB
-* Coding IDE: Goland, IntelliJ Ultimate, Rider, Visual Code
-* Server providers: Hetzner Cloud (VPS linux servers), Azure, Google Cloud Platform, Digital Ocean, AWS
-* Containerization: Docker, Kubernetes
-* Automations: Makefile, Dockerfile, docker-compose, github actions
-* Deployment: systemd (services), Docker, Kubernetes
-* Server administration (linux): ssh configuration, permissions, systemd, configuration
+# Software Developer | Go Specialist | System Architect focused on Scalability & Maintainability
+
+I build robust solutions primarily using **Go** and **JavaScript**, designed to be easy to understand, simple to test, and built to last for years. My approach centers on simplicity and thoughtful architecture to ensure software that scales effortlessly and remains maintainable over time.
+
+---
+
+## My Philosophy
+
+Good software is not about chasing trends but about **clearly understanding and solving problems effectively**.  
+I prefer **structured code** with clear responsibilities and low complexity—without relying on magic frameworks or unnecessary abstractions.  
+I thrive in environments where requirements are well-defined, and technical decisions are deliberate and transparent.
+
+For me, **business documentation, solution descriptions, and precise requirements specifications** are crucial to building reliable and maintainable software. This alignment ensures developers and business stakeholders share the same understanding and direction.
+
+---
+
+## Core Competencies
+
+### ✅ Backend Development with Go
+
+Go (Golang) is my primary tool for building scalable APIs, CLI applications, and integrations, with a focus on **performance, testability, and observability**.  
+I utilize `net/http` along with the latest `http.NewServeMux()` introduced in Go 1.22 to implement clear and testable routing.  
+By leveraging interfaces, I maintain modular and flexible architectures.
+
+I integrate **structured logging** with tools like Slug and visualize system health and metrics using **Grafana** dashboards fed by exported logs and telemetry.  
+My development workflow naturally incorporates test coverage, tracing, and robust error reporting.  
+I write code adhering strictly to **SOLID principles** and the **Open/Closed Principle**, always considering operational monitoring and debugging from the very start.
+
+### ✅ Frontend Development with JavaScript/TypeScript — Without Overengineering
+
+I build functional user interfaces emphasizing **simple DOM manipulation** and **anchor boosting**.  
+I favor **object-oriented structures** over React's functional paradigms, which can often lead to complex, hard-to-test codebases.  
+My frontend solutions prioritize clarity, maintainability, and ease of verification.
+
+### ✅ System Architecture & Full-Stack Solutions
+
+From initial requirements to deployment and maintenance, I design and implement complete solutions focused on **scalability, observability, and maintainability**.  
+I collaborate with teams to foster technical ownership and establish long-term, sustainable structures.
+
+### ✅ Microservices with Clear Boundaries
+
+I develop small, focused services with clearly defined responsibilities—such as logging, security, or business logic.  
+By emphasizing modularity and low coupling, I reduce complexity and enhance maintainability across systems.
+
+---
+
+## Technologies & Tools
+
+- **Languages & Frameworks:** Go (Golang), TypeScript, JavaScript, ESBuild
+- **Templating:** HTML, GoHTML templating
+- **Databases:** MySQL
+- **Containerization & Orchestration:** Docker, Kubernetes
+- **Build & Automation:** Makefile, Shell scripting
+- **Logging & Monitoring:** Structured logging (Slug), Grafana
+- **IDEs & Tools:** GoLand, IntelliJ, DataGrip
+- **Project Management:** GitHub Projects, Jira, Confluence
+- **AI:** Jetbrains AI, chatgpt, claude
+
+---
+
+## Let's Connect
+
+Interested in software craftsmanship, system design, or development philosophy?  
+Feel free to reach out—I'm always open for a technical discussion or collaboration.
+
+---
+
+*“Clean, simple, and maintainable code isn’t a goal — it’s a habit.”*
+
+---
+
+### Additional Notes
+
+Hired by dao (Dansk Avis Omdeling A/S) to maintain their existing PHP systems and develop some new ones in Java
+
+
+
+
+
+
+
 
 <br>
 
