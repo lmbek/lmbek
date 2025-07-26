@@ -82,9 +82,7 @@ By emphasizing modularity and low coupling, I reduce complexity and enhance main
 Interested in software craftsmanship, system design, or development philosophy?  
 Feel free to reach out—I'm always open for a technical discussion or collaboration.
 
----
-
-*“Clean, simple, and maintainable code isn’t a goal — it’s a habit.”*
+> *“Clean, simple, and maintainable code isn’t a goal — it’s a habit.”*
 
 ---
 
