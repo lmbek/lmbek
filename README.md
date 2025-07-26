@@ -30,7 +30,7 @@ I thrive in environments where requirements are well-defined, and technical deci
 
 For me, **business documentation, solution descriptions, and precise requirements specifications** are crucial to building reliable and maintainable software. This alignment ensures developers and business stakeholders share the same understanding and direction.
 
-Go fits this perfectly as the code is simple, easy to maintain and the toolchain is perfect for procedural workflows, testing, versioning and deployment.
+Go fits this philosophy perfectly. Its simplicity and clarity make code easy to maintain, while the toolchain supports procedural workflows, robust testing, clean versioning, and smooth deployment.
 
 ---
 
