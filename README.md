@@ -69,11 +69,11 @@ By emphasizing modularity and low coupling, I reduce complexity and enhance main
 - **Templating:** HTML, GoHTML templating
 - **Databases:** MySQL
 - **Containerization & Orchestration:** Docker, Kubernetes
-- **Build & Automation:** Makefile, Shell scripting
+- **Build & Automation:** Makefile, Shell scripting, yml, os.env
 - **Logging & Monitoring:** Structured logging (Slug), Grafana
 - **IDEs & Tools:** GoLand, IntelliJ, DataGrip
 - **Project Management:** GitHub Projects, Jira, Confluence
-- **AI:** Jetbrains AI, chatgpt, claude
+- **AI:** Jetbrains AI, Chatgpt, Claude
 
 ---
 
