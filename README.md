@@ -75,7 +75,7 @@ By emphasizing modularity and low coupling, I reduce complexity and enhance main
 - **Logging & Monitoring:** Structured logging (Slug), Grafana
 - **IDEs & Tools:** GoLand, IntelliJ, DataGrip
 - **Project Management:** GitHub Projects, Jira, Confluence
-- **AI:** Jetbrains AI, Chatgpt, Claude
+- **AI:** Jetbrains AI, Junie AI Agent, Chatgpt 5.0
 
 ---
 
