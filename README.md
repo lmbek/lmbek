@@ -44,7 +44,7 @@ By leveraging interfaces, I maintain modular and flexible architectures.
 
 I integrate **structured logging** with tools like Slug and visualize system health and metrics using **Grafana** dashboards fed by exported logs and telemetry.  
 My development workflow naturally incorporates test coverage, tracing, and robust error reporting.  
-I write code adhering strictly to **SOLID principles** and the **Open/Closed Principle**, always considering operational monitoring and debugging from the very start.
+I write code in an interface first coding style with high priority on tests, and I consider operational monitoring and debugging from the very start.
 
 ### ✅ Frontend Development with JavaScript/TypeScript — Without Overengineering
 
