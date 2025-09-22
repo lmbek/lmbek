@@ -3,7 +3,7 @@
  ____________________________
 |  GOOS=linux GOARCH=amd64   |
 |  go build -o or_go_home .  |
-|____________________________|         - Lars Morten Bek
+|____________________________|         - Lars Marcher Bek
  \O/   \O/   \O/   \O/   \O/           - Software Developer since 2005
   |     |     |     |     |            - Gopher since 2021
  / \   / \   / \   / \   / \           - Married to Ida Marcher Bek
@@ -137,7 +137,7 @@ Hired by dao (Dansk Avis Omdeling A/S) to maintain their existing PHP systems an
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nineninefive&count_private=true&theme=dracula&showicons=true)]()
 -->
 ## Social Networks
-<a href="https://www.linkedin.com/in/lmbek/" color="white">LinkedIn (Lars M Bek)</a> <br>
+<a href="https://www.linkedin.com/in/lmbek/" color="white">LinkedIn (Lars Marcher Bek)</a> <br>
 
 <!--## Websites-->
 <!--<a href="https://beksoft.dk">Beksoft.dk</a> <br>
