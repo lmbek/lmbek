@@ -18,64 +18,59 @@ Welcome to my GitHub profile, you can connect with me on <a href="https://www.li
 
 # Software Developer | Go Specialist | System Architect focused on Scalability & Maintainability
 
-I build robust solutions primarily using **Go** and **JavaScript**, designed to be easy to understand, simple to test, and built to last for years. My approach centers on simplicity and thoughtful architecture to ensure software that scales effortlessly and remains maintainable over time.
+I am a pragmatic and result-oriented developer with a strong theoretical understanding of software architecture and operations.
+
+I thrive on high-impact work where I can create real change and momentum. I work fast and efficiently when the business value is clear — and thoroughly when long-term quality and durability matter most.
+Low-priority tasks motivate me less, but I handle them professionally to maintain overall forward progress.
+
+My strengths lie in low-level optimization — managing timeouts, resource usage and execution flow — enabling systems to stay stable and efficient under load. I design solutions that are easy to operate, automate and monitor, with GitOps, CI/CD, testing, pipelines and uptime considerations built in from the beginning.
+
+I develop robust solutions in Go and JavaScript with a focus on clarity, testability and simple architecture that scales without growing into unmanageable complexity.
 
 ---
 
 ## My Philosophy
 
-Good software is not about chasing trends but about **clearly understanding and solving problems effectively**.  
-I prefer **structured code** with clear responsibilities and low complexity—without relying on magic frameworks or unnecessary abstractions.  
-I thrive in environments where requirements are well-defined, and technical decisions are deliberate and transparent.
+I build systems that can withstand reality — not code that only appears stable because it has never been challenged.
+“It's been working for years” is not a quality metric if the system fails the moment it meets resistance.
 
-For me, **business documentation, solution descriptions, and precise requirements specifications** are crucial to building reliable and maintainable software. This alignment ensures developers and business stakeholders share the same understanding and direction.
+I prioritize architecture and operational properties over developer comfort.
+Software must tolerate failure, pressure, misuse and active attack — otherwise it does not belong in production.
 
-Go fits this philosophy perfectly. Its simplicity and clarity make code easy to maintain, while the toolchain supports procedural workflows, robust testing, clean versioning, and smooth deployment.
+I work with principles like fail-fast, clear domain boundaries, small and explicit interfaces, and no hidden magic, because a system must be understandable and controllable — not just pleasant to develop.
+
+I prioritize Go because the language naturally enforces the same values: simplicity, predictability and architectural discipline.
 
 ---
 
 ## Core Competencies
 
-### ✅ Backend Development with Go
+### ✅ Backend in Go (Golang)
+Simple, stable backend solutions with clean interfaces and operations in mind from the start.
 
-Go (Golang) is my primary tool for building scalable APIs, CLI applications, and integrations, with a focus on **performance, testability, and observability**.  
-I utilize `net/http` along with the latest `http.NewServeMux()` introduced in Go 1.22 to implement clear and testable routing.  
-By leveraging interfaces, I maintain modular and flexible architectures.
+### ✅ Frontend with JS/TS
+Pragmatic, lightweight frontend — tools chosen by necessity, not fashion.
 
-I integrate **structured logging** with tools like Slug and visualize system health and metrics using **Grafana** dashboards fed by exported logs and telemetry.  
-My development workflow naturally incorporates test coverage, tracing, and robust error reporting.  
-I write code in an interface first coding style with high priority on tests, and I consider operational monitoring and debugging from the very start.
+### ✅ System Architecture & Fullstack
+From requirements to operations — transparent, long-lived solutions.
 
-### ✅ Frontend Development with JavaScript/TypeScript — Without Overengineering
-
-I build functional user interfaces emphasizing **simple DOM manipulation** and **anchor boosting**.  
-I favor **object-oriented structures** over React's functional paradigms, which can often lead to complex, hard-to-test codebases.  
-My frontend solutions prioritize clarity, maintainability, and ease of verification.
-> *Innovation is key to improvement — without reinventing the wheel, better wheels wouldn’t exist.*
-
-### ✅ System Architecture & Full-Stack Solutions
-
-From initial requirements to deployment and maintenance, I design and implement complete solutions focused on **scalability, observability, and maintainability**.  
-I collaborate with teams to foster technical ownership and establish long-term, sustainable structures.
-
-### ✅ Microservices with Clear Boundaries
-
-I develop small, focused services with clearly defined responsibilities—such as logging, security, or business logic.  
-By emphasizing modularity and low coupling, I reduce complexity and enhance maintainability across systems.
+### ✅ Microservices with clear domains
+Small, self-contained services with low coupling and easy replaceability.
 
 ---
 
 ## Technologies & Tools
 
-- **Languages & Frameworks:** Go (Golang), TypeScript, JavaScript, ESBuild
-- **Templating:** HTML, GoHTML templating
-- **Databases:** MySQL
-- **Containerization & Orchestration:** Docker, Kubernetes
-- **Build & Automation:** Makefile, Shell scripting, yml, os.env
-- **Logging & Monitoring:** Structured logging (Slug), Grafana
-- **IDEs & Tools:** GoLand, IntelliJ, DataGrip
-- **Project Management:** GitHub Projects, Jira, Confluence
-- **AI:** Jetbrains AI, Junie AI Agent, Chatgpt 5.0
+- Go (Golang)
+- TypeScript / JavaScript / ESBuild
+- GOHTML templating
+- MySQL
+- Docker & Kubernetes
+- GitOps / CI/CD
+- Slog + Grafana / Datadog
+- JetBrains (GoLand, IntelliJ, DataGrip)
+- GitHub Projects / Jira / Markdown
+- JetBrains AI, Junie, ChatGPT 5
 
 ---
 
@@ -91,11 +86,6 @@ Feel free to reach out—I'm always open for a technical discussion or collabora
 ### Additional Notes
 
 Hired by dao (Dansk Avis Omdeling A/S) to maintain their existing PHP systems and develop some new ones in Java
-
-
-
-
-
 
 
 
