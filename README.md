@@ -41,6 +41,8 @@ I work with principles like fail-fast, clear domain boundaries, small and explic
 
 I prioritize Go because the language naturally enforces the same values: simplicity, predictability and architectural discipline.
 
+I strive to adhere to the principles outlined in the The Twelve-Factor App methodology: https://12factor.net/
+
 ---
 
 ## Core Competencies
@@ -70,7 +72,7 @@ Small, self-contained services with low coupling and easy replaceability.
 - Slog + Grafana / Datadog
 - JetBrains (GoLand, IntelliJ, DataGrip)
 - GitHub Projects / Jira / Markdown
-- JetBrains AI, Junie, ChatGPT 5
+- JetBrains AI, Junie, ChatGPT
 
 ---
 
@@ -85,7 +87,7 @@ Feel free to reach out—I'm always open for a technical discussion or collabora
 
 ### Additional Notes
 
-Hired by dao (Dansk Avis Omdeling A/S) to maintain their existing PHP systems and develop some new ones in Java
+Employee at dao (Dansk Avis Omdeling A/S)
 
 
 
